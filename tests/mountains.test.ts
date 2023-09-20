@@ -26,3 +26,4 @@ describe("findNameOfTallestMountain", () => {
     expect(name).toBe("Everest");
   });
 });
+
